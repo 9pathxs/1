@@ -1,5 +1,4 @@
 #include "solidos.h"
-#include <math.h>
 #include <stdio.h>
 
 float volume_cone (cone c){

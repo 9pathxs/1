@@ -24,3 +24,4 @@ float volume_cone (cone c);
 float volume_cilin (cilindro c); 
 float volume_esfera (esfera e);
 float volume_paralelo (paralelo p);
+void novo_cone(cone *c);
